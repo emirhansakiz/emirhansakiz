@@ -27,5 +27,5 @@ Ağırlıklı olarak **Endüstriyel Otomasyon**, **Siemens TIA Portal**, **SCL**
 ### 🌐 İletişim & Diller
 
 - 💬 **Diller:** Türkçe (Anadil), İngilizce (İleri Düzey), Almanca (A2 - Geliştirilmekte)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/emirhan-sakız-9264792a2
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/emirhan-sakız]
 - 📧 **E-Posta:** [emirhansakiz@gmail.com]
