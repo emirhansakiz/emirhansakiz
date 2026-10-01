@@ -12,7 +12,7 @@ Ağırlıklı olarak **Endüstriyel Otomasyon**, **Siemens TIA Portal**, **SCL**
 - **Simülasyon & Sanal Fabrika:** Factory I/O (3D Dijital İkiz / Proses Simülasyonu)
 - **Mimari & Kontrol:** Durum Makineleri (State Machines), Analog Sinyal İşleme, PID Kapalı Çevrim Kontrol
 - **Haberleşme & SCADA:** Modbus RTU/TCP, Profinet, WinCC Basic / Comfort
-- **Donanım & Saha:** Pano Kumanda Devreleri, Sensör Entegrasyonu, ISIS Proteus
+- **Donanım & Saha:** Pano Kumanda Devreleri, Sensör Entegrasyonu, ISIS Proteus, AutoCad, Python AI
 
 ---
 
